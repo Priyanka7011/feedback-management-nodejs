@@ -24,7 +24,7 @@ db.connect((err)=>{
     }
 })
 
-app.listen(3001,()=>{
+app.listen(5000,()=>{
     console.log('server started on 3306 ')
 
 })
